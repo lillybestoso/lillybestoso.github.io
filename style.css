@@ -1,0 +1,25 @@
+* { text-align: center; }
+body {background-color: #FFE4E1}
+.nav-table {
+    width:1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #AA336A;
+}
+
+#body-background {
+    background-image: url("mybackground.jpg");
+  }
+  .my-div {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .lilly {
+    float: center;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
